@@ -1,0 +1,5 @@
+name: appointment-app
+instances: 1
+memory: 30M
+buildpack: staticfile_buildpack
+path: ./dist/appointment-app
